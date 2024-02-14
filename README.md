@@ -1,4 +1,4 @@
 # SortingAlgoVisualizer
 Visualisation of different sorting algorithm. It will help to differentiate between various sorting algo.
 
-https://vishal29meghwal.github.io/SortingAlgoVisualizer-master-2/
+https://stalwart-sprite-7e8552.netlify.app
